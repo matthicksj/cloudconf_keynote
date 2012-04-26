@@ -1,1 +1,13 @@
-slides
+{
+  "name": "Matt Hicks",
+  "description": "Understanding the cloud begins with the Public Cloud",
+  "sections": [
+    {"section":"title"},
+    {"section":"about_me"},
+    {"section":"trust"},
+    {"section":"misconceptions"},
+    {"section":"breakdown"},
+    {"section":"challenges"},
+    {"section":"attributions"}
+  ]
+}
