@@ -12,3 +12,4 @@
 
 !SLIDE center transition=fade
 # @matthicksj
+# <http://github.com/matthicksj>
